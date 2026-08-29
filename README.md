@@ -1,2 +1,2 @@
 # porfolio
-resume - porfolio typ
+resume - porfolio type
