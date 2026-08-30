@@ -5,7 +5,8 @@
 	html {
       zoom: 75%;
       margin-left: 70px;
-      margin-right: 70px;	  
+      margin-right: 70px;	
+      background-color: lightgray;	  
 	}
 
 html {
@@ -37,6 +38,8 @@ html {
   z-index: 9999; 
   font-size: 22px; 
   padding-left: 20px;
+  margin-left: 70px;
+  margin-top: 20px;
 }
 
 
@@ -58,19 +61,39 @@ a:hover {
 }
 
 h2 {
-      margin-left: 190px;	
+      margin-left: 290px;	
 	  font-size: 60px; 
 }
 
 span {
 	color: orange;
+	-webkit-text-stroke: 1px black; 
+	text-shadow: 2px 2px 4px black;
 }
 
 h3 {
-	margin-left: 190px;	
+	margin-left: 290px;	
 	  font-size: 50px; 
 }
 
 h4 {
 	font-size: 50px; 
+}
+
+.foto {
+    width: 500px;
+	height: 500px;
+	margin: 20px;
+	float: right;
+}
+
+p {
+	font-size: 45px; 
+}
+
+.education {
+	background-color: darkblue;
+	color: white;
+	padding-left: 40px;
+	padding-top: 5px;
 }
