@@ -17,7 +17,7 @@ html {
 
 
 .menu { 
-  position: fixed;
+  float: left ;
   top: 0; 
   left: 0; 
   width: 230px; 
@@ -38,7 +38,7 @@ html {
   z-index: 9999; 
   font-size: 22px; 
   padding-left: 20px;
-  margin-left: 70px;
+  margin-left: 0px;
   margin-top: 20px;
 }
 
@@ -78,6 +78,7 @@ h3 {
 
 h4 {
 	font-size: 50px; 
+	clear: both;
 }
 
 .foto {
