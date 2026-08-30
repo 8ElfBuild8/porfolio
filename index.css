@@ -119,8 +119,13 @@ button {
 }
 
 .shake {
-	display: inline-block;
-	animation: shake-animation 1s infinite;
+
+	animation: beat .75s infinite alternate;
+	transform-origin: center;
+}
+
+@keyframes beat{
+	to { transform: scale(1.2); }
 }
 
 @keyframes shake-animation {
