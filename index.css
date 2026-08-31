@@ -172,6 +172,16 @@ button {
 	 border: 5px solid black; 
 	 margin: 30px;
 	 width: 500px;
-	height: 500px;
+	height: 400px;
 	float: right;
+	 margin-top: 100px;
+}
+
+.knight-der {
+    margin-left: 290px;		
+}
+
+.knight-izq {
+	float: right;
+	margin-right: 290px;	
 }
