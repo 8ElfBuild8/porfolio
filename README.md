@@ -1,3 +1,4 @@
 # porfolio
 resume - porfolio type
-<img src="pc3.gif" width="100" height="100" >
+<br>
+<img src="pc3.gif" width="300" height="300" >
